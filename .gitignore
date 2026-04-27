@@ -1,0 +1,7 @@
+node_modules/
+uploads/
+memory.json
+.env
+rna_output.pdf
+rna_output.docx
+rna_output.xlsx
