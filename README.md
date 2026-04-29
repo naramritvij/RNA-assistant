@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/RNA-Ritvij%20Naram%20Assistant-7c3aed?style=for-the-badge&logo=robot&logoColor=white" alt="RNA"/>
 
-# 🤖 RNA — Ritvij Naram Assistant
+#  RNA! Ritvij Naram Assistant
 
 ### Your personal AI assistant, running 100% locally and privately on your machine.
 
@@ -20,7 +20,7 @@
 
 ---
 
-## ✨ What is RNA?
+##  What is RNA?
 
 **RNA (Ritvij Naram Assistant)** is a fully-featured personal AI assistant built from scratch using Node.js and [Ollama](https://ollama.com). It runs entirely on your local machine — no subscriptions, no API costs, no data leaving your PC. Every conversation stays private.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 🚀 Features
+##  Features
 
 | Feature | Description |
 |---|---|
@@ -44,11 +44,11 @@
 
 ---
 
-## 🖥️ Screenshots
+##  Screenshots
 
 ```
 ┌─────────────────────────────────────────────────────┐
-│  🤖 RNA          phi3:mini · Local AI    Session #5  │
+│   RNA          phi3:mini · Local AI    Session #5  │
 ├──────────────┬──────────────────────────────────────┤
 │              │                                      │
 │  💬 Chat     │   👋 Welcome back, Ritvij!           │
@@ -67,7 +67,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -84,7 +84,7 @@
 
 ---
 
-## 📦 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -127,7 +127,7 @@ That's it! 🎉 RNA is running locally on your machine.
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 RNA-assistant/
@@ -149,7 +149,7 @@ RNA-assistant/
 
 ---
 
-## 🎮 Usage
+##  Usage
 
 ### Web Interface (Recommended)
 
@@ -187,7 +187,7 @@ RNA → Goodbye Ritvij! See you soon 👋
 
 ---
 
-## 🧠 How Memory Works
+##  How Memory Works
 
 RNA saves your conversation history and session data to `memory.json`:
 
@@ -210,7 +210,7 @@ RNA saves your conversation history and session data to `memory.json`:
 
 ---
 
-## ⚙️ Configuration
+##  Configuration
 
 To switch AI models, edit `rna.js` line 30:
 
@@ -230,7 +230,7 @@ model: 'phi3:mini',   // fast, fits in 6GB VRAM
 
 ---
 
-## 🗺️ Roadmap
+##  Roadmap
 
 - [x] Core chat with memory
 - [x] Web UI with aurora dark theme
@@ -245,7 +245,7 @@ model: 'phi3:mini',   // fast, fits in 6GB VRAM
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 This is a personal project but contributions are welcome!
 
@@ -257,13 +257,13 @@ This is a personal project but contributions are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Ritvij Naram**
 - GitHub: [@naramritvij](https://github.com/naramritvij)
